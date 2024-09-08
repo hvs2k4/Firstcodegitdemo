@@ -1,1 +1,1 @@
-This is my demo repository where im learning python concepts
+This is my demo repository where I'm learning python concepts
